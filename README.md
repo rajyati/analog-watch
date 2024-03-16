@@ -10,7 +10,7 @@ CSS: Styles the watch for visual appeal.
 JavaScript: Implements the logic to update the time display.
 ##How to Use
 To use this analog watch in your project, follow these steps:
-Clone this repository to your local machine using git clone https://github.com/yourusername/analog-watch.git.
+Clone this repository to your local machine using git clone https://github.com/rajyati/analog-watch.
 Open the index.html file in your preferred web browser.
 The analog watch should now be displayed, showing the current time.
 Credits
